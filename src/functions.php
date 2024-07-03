@@ -9,7 +9,7 @@ use Spatie\Once\Cache;
  * @param (callable(): T) $callback
  * @return T
  */
-function once(callable $callback): mixed
+function twice(callable $callback): mixed
 {
     $trace = debug_backtrace(
         DEBUG_BACKTRACE_PROVIDE_OBJECT, 2

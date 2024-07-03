@@ -1,6 +1,6 @@
 {
-    "name": "spatie/once",
-    "description": "A magic memoization function",
+    "name": "SynergiTech/twice",
+    "description": "A fork of spatie/once, just renamed to twice to avoid conflicting with the once() helper function in Laravel 11 which isn't as full features as spatie/once",
     "keywords": [
         "spatie",
         "once",
@@ -8,7 +8,7 @@
         "memoization",
         "cache"
     ],
-    "homepage": "https://github.com/spatie/once",
+    "homepage": "https://github.com/SynergiTech/twice",
     "license": "MIT",
     "authors": [
         {
